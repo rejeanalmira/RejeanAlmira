@@ -1,6 +1,6 @@
 # Hi, I'm Rejean Almira
 
-### Technical Problem Solver | Incoming Product, Data & Business Analyst
+### Technical Problem Solver | Product, Data & Business Analyst
 I bridge the gap between complex software systems and data-driven business decisions. Drawing from over 8 years of enterprise SaaS, CRM, and cloud application support experience, I specialize in transforming raw operational data into actionable product and business insights.
 
 - **Skills:** SQL (MySQL), Python (Pandas), Tableau, REST/SOAP APIs, Data Modeling
